@@ -1,0 +1,8 @@
+{
+  "name": "EduPath Argentina",
+  "description": "Student progress and reporting platform for Argentine private secondary schools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
